@@ -27,4 +27,4 @@ The App requests local file permission functionality specifically to allow you t
 We may update our Privacy Policy from time to time if Android policy requirements change. Since the app does not collect user data, we cannot notify you individually. You are advised to review this page periodically for any changes.
 
 ### 7. Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: **[Insert Your Developer Email Here]**
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: **lampropoulosalexandros@gmail.com**
