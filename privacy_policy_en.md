@@ -1,4 +1,4 @@
-# Privacy Policy for Slap It! & Slap It! Pro
+# Privacy Policy for Slap It! - Physical Pranks & Slap It! Pro - Physical Pranks
 
 **Last Updated:** April 2026
 
